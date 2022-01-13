@@ -1,0 +1,15 @@
+.cover {
+    background-image: url(../img/cover.jpg);
+    height: 300px;
+    background-position: top center;
+         }
+         img{
+             border: solid 10px ;
+          border-color: white;
+          margin-left: 100px;
+          margin-top: -150px;
+         }
+         h1{
+            padding-left: 350px;
+            padding-top: 200px;
+         }

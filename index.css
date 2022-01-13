@@ -1,0 +1,19 @@
+.active{
+    color: white;
+}
+a{
+    font-size:36px;
+        }
+        .class{
+            color: dodgerblue;
+        }
+        a:hover {
+        background-color: tomato;
+        }
+        a{
+            color: white;
+            text-decoration: none;
+            text-align: center;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
